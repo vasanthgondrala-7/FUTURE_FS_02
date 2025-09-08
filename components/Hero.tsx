@@ -57,7 +57,7 @@ export default function Hero() {
               </motion.a>
               
               <motion.a
-                href="https://github.com/ItsTanseer/FUTURE_FS_02"
+                href="https://github.com/vasanthgondrala-7/FUTURE_FS_02"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.05 }}
