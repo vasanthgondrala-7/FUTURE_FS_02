@@ -24,7 +24,7 @@ export default function Hero() {
               className="text-5xl lg:text-6xl font-bold text-gray-900 leading-tight"
             >
               From browse to{' '}
-              <span className="bg-gradient-to-r from-primary-600 to-secondary-600 bg-clip-text text-transparent">
+              <span className="bg-gradient-to-r from-yellow-600 to-orange-600 bg-clip-text text-transparent">
                 doorstep
               </span>{' '}
               in no time
@@ -49,7 +49,7 @@ export default function Hero() {
               <motion.a
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
-                className="btn-primary flex items-center justify-center space-x-2"
+                className="btn-secondary flex items-center justify-center space-x-2"
                 href="#products"
               >
                 <span>Shop Now</span>
@@ -62,7 +62,7 @@ export default function Hero() {
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
-                className="btn-secondary flex items-center justify-center space-x-2"
+                className="btn-primary flex items-center justify-center space-x-2"
               >
                 <span>Learn More</span>
                 <ArrowRight size={20} />
@@ -140,7 +140,7 @@ export default function Hero() {
           viewport={{ once: true }}
           className="text-center max-w-4xl mx-auto"
         >
-          <h2 className="text-4xl font-bold text-gray-900 mb-6">About NxT Cart</h2>
+          <h2 className="text-4xl font-bold text-gray-900 mb-6">About Nxt Cart</h2>
           <p className="text-xl text-gray-600 leading-relaxed mb-8">
             We are passionate about bringing you the best shopping experience. Our mission is to connect you with 
             high-quality products that enhance your lifestyle, all while providing exceptional customer service 

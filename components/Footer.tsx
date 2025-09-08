@@ -17,10 +17,10 @@ export default function Footer() {
             className="space-y-4"
           >
             <div className="flex items-center space-x-2">
-              <div className="w-10 h-10 bg-gradient-to-br from-primary-500 to-secondary-500 rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-xl">F</span>
+              <div className="w-10 h-10 bg-gradient-to-br from-yellow-500 to-orange-500 rounded-lg flex items-center justify-center">
+                <span className="text-white font-bold text-xl">N</span>
               </div>
-              <span className="text-2xl font-bold">NxT Cart</span>
+              <span className="text-2xl font-bold">Nxt Cart</span>
             </div>
             <p className="text-gray-300 leading-relaxed">
               From browse to doorstep in no time. Your trusted online shopping destination for quality products and exceptional service.
@@ -204,7 +204,7 @@ export default function Footer() {
           className="border-t border-gray-800 mt-12 pt-8 text-center"
         >
           <p className="text-gray-400">
-            © 2024 Find Your Cart. All rights reserved. | Privacy Policy | Terms of Service
+            © 2025 Nxt Cart. All rights reserved. | Privacy Policy | Terms of Service
           </p>
         </motion.div>
       </div>
