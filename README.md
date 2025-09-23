@@ -1,4 +1,4 @@
-# FUTURE_FS_02
+# Nxt Mart(e-commerce)
 
 **A next-generation e-commerce storefront**, built with React, Tailwind CSS, Node.js, and MongoDB. Designed for speed, scalability, and innovation—where online shopping transforms into an immersive experience.
 
